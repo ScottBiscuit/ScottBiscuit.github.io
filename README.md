@@ -17,7 +17,3 @@ This website is a fully responsive personal portfolio, <br />Responsive for all 
 ### Demo Screeshots
 
 ![Scott J. Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### License
-
-This project is **free to use** and does not contains any license.
