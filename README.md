@@ -2,7 +2,7 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./readme-images/project-logo-2.png" />
 
   <h2 align="center">Scott J - Personal portfolio</h2>
 
