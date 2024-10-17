@@ -14,6 +14,6 @@ This website is a fully responsive personal portfolio, <br />Responsive for all 
 
 <br />
 
-### Demo Screeshots
+<!-- ### Demo Screeshots -->
 
-![Scott J. Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+<!-- ![Scott J. Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo") -->
